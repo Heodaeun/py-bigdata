@@ -1,5 +1,5 @@
 # py-bigdata
-2019-1st semester 수리적 빅데이터를 수강하면서 수행한 과제
+2019-1st semester 수리적 빅데이터 수업을 수강하면서 수행한 파이널 과제
 
 
 <br>
